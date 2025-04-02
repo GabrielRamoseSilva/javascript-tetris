@@ -25,4 +25,4 @@ License
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
-
+Alteracoes na aula 2abr/2025 para os exercicios com GIThub
